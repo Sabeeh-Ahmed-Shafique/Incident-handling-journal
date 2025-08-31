@@ -4,13 +4,16 @@ It documents simulated and real-world cybersecurity incidents, structured accord
 
 
 
+
 ## Incident summaries
+
 
 #### 01-Ransomware attack.
 Date: July 21,2025<br>
 Category: Malware<br>
 Reference Framework: NIST Incidence Response Lifecycle<br>
 Description: Unethical hackers were able to access the company’s systems through a phishing attack. They deployed ransomware, encrypting the company files and then leaving a note for ransom so that a decryption key would be provided to decrypt the data.
+
 
 
 #### 02-Phishing attack.
@@ -20,6 +23,7 @@ Reference Framework: NIST Incidence Response Lifecycle<br>
 Descripton: An employee received an email with an attachment. He clicked on the attachment and a malicious file was downloaded on his computer, accessing his system and stealing company's sensitive info.
 
 
+
 #### 03-Web Application attack.
 Date: July 26,2025<br>
 Category: Broken Access Control<br>
@@ -27,14 +31,17 @@ Framework Reference: NIST Incident Response Lifecycle<br>
 Description: The company had a vulnerability in it's e-commerce web application. The vulnerability allowed the attacker to perform a forced browsing attack and access customer transaction data by modifying the order number included in the URL string of a purchase confirmation page. The attacker got access to customer data, which he then collected and exfiltrated, further the attacker left a note demanding payment as ransom for not releasing the data on public forums.
 
 
+
 #### 04-Capturing my first packet.
 Date: July 27,2025<br>
 Description:  I used tcpdump to capture and analyze network traffic. Tcpdump is a network protocol analyzer that's accessed using the command-line interface.
 
 
+
 #### 05-Analyzing a packet capture file.
 Date: July 27,2025<br>
 Description: I used wireshark to analyze a packet capture file. Wireshark is a network protocol analyzer having a graphical user interface
+
 
 
 #### 06-Investigating a suspicious file hash.
